@@ -1,7 +1,10 @@
 mod exercises;
 
-use exercises::guessing;
+#[allow(unused_imports)]
+use exercises::{guessing, hello_world};
 
 fn main() {
-    guessing::guessing_game();
+
+    println!("{}", hello_world::hello());
+    // guessing::guessing_game();
 }
