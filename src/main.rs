@@ -6,7 +6,7 @@ use exercises::*;
 fn main() {
 
     // println!("{}", hello_world::hello());
-    guessing::guessing_game();
-    // mix::run();
+    // guessing::guessing_game();
+    mix::run();
     // threads::run();
 }
