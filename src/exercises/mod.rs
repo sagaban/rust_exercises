@@ -4,3 +4,4 @@ pub mod mix;
 pub mod threads;
 pub mod matcher;
 pub mod complementary_dna;
+pub mod pile_of_cubes;
