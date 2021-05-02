@@ -8,3 +8,5 @@ pub mod pile_of_cubes;
 pub mod summation;
 pub mod positive_sum;
 pub mod replace_with_alphabet;
+pub mod rot13;
+pub mod vowel_count;
