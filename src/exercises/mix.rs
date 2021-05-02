@@ -145,4 +145,13 @@ match min_max(&ARRAY2) {
     Some((mi, ma)) => println!("The min is {} and the max is {}", mi, ma),
     None => println!("The array was empty"),
 }
+
+
+fn number_to_string(i: i32) -> String {
+    i.to_string()
+    // alternative:
+    // format!("{}",i)
+}
+
+println!("{}", number_to_string(1+2));
 }
