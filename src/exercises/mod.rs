@@ -10,3 +10,6 @@ pub mod positive_sum;
 pub mod replace_with_alphabet;
 pub mod rot13;
 pub mod vowel_count;
+pub mod delete_ocurrences;
+pub mod people_bus;
+pub mod smallest_digit;
