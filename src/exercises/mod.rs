@@ -13,3 +13,5 @@ pub mod vowel_count;
 pub mod delete_ocurrences;
 pub mod people_bus;
 pub mod smallest_digit;
+pub mod round_up;
+pub mod valid_pin;
