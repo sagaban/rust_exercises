@@ -15,3 +15,4 @@ pub mod people_bus;
 pub mod smallest_digit;
 pub mod round_up;
 pub mod valid_pin;
+pub mod accum;
