@@ -7,6 +7,7 @@ fn main() {
 
     // println!("{}", hello_world::hello());
     // guessing::guessing_game();
-    mix::run();
+    // mix::run();
     // threads::run();
+    threads2::run();
 }
