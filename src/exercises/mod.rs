@@ -20,3 +20,5 @@ pub mod accum;
 pub mod sort;
 pub mod roman_numerals;
 pub mod pascal_triangle;
+pub mod trailing_zeros;
+pub mod parity_outlier;
